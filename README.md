@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on IT fields
 - 📫 How to reach me through email : mouhab122@gmail.com
--                                    mouhabo@yahoo.com
 
 <!---
 MohabEldemery/MohabEldemery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
